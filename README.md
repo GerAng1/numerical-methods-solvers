@@ -1,14 +1,10 @@
-https://pythonclock.org/
+# Directory Structure
+### solver-2_7/
+- OG Solver written in Python2.7
+- Everything is coded by me (i.e. it doesn't require to install external libraries like NumPy or SymPy)
 
-THIS PROJECT DOES NOT INCLUDE LIBRARIES SUCH AS
-SYMPY OR NUMPY TO HELP WITH NUMERICAL METHODS.
+### solver-3/
+- Made entirely new implementing better practices & improvements (and using Python3.9)
+- Everything is coded by me (i.e. it doesn't require to install external libraries like NumPy or SymPy)
 
-ESTE PROYECTO NO INCLUYE MODULOS COMO
-SYMPY O NUMPY PARA AYUDAR CON LOS METODOS.
-
-This project must be rewritten completely by hand in
-Python3 notation before pythonclock hits 0.
-
-Add comments to the whole project.
-
-Solver merges all individual methods.
+`solver.py` merges all individual methods.
